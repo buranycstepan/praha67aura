@@ -1,0 +1,22 @@
+PrazskaHonicka/
+│
+├── main.py            # spuštění hry
+├── menu.py            # hlavní menu
+├── game.py            # herní smyčka
+├── player.py          # hráč
+├── ai_car.py          # AI auta
+├── ai_train.py        # trénování neuronové sítě
+├── shop.py            # autosalon
+├── garage.py          # garáž
+├── save.py            # ukládání
+├── ui.py              # HUD
+├── settings.py
+│
+├── assets/
+│   ├── background-1.png
+│   ├── menu_background.png
+│   ├── tile000.png
+│   ├── ...
+│   └── tile031.png
+│
+└── saves/
